@@ -14,8 +14,7 @@ O objetivo é permitir a reprodução, a auditoria e a extensão dos experimento
 As instâncias SOPMV produzidas neste repositório, a reimplementação independente
 do SA-PD e partes da formulação MILP em `algorithms/cplex/` foram inspiradas em
 Lin, Guo e Wu (2024). Esta é uma implementação independente: ela não reutiliza
-código dos autores. O PDF consultado no projeto de pesquisa encontra-se em
-`/home/leo/tcc_sopmv/docs/referencias/lin_guo_wu_2024.pdf`.
+código dos autores.
 
 > Lin, S.-W.; Guo, S.; Wu, W.-J. *Applying the Simulated Annealing Algorithm
 > to the Set Orienteering Problem with Mandatory Visits*. **Mathematics**,
@@ -184,9 +183,7 @@ experiments.
 The SOPMV instances generated in this repository, the independent SA-PD
 reimplementation, and parts of the MILP formulation in `algorithms/cplex/`
 were inspired by Lin, Guo, and Wu (2024). This is an independent
-implementation; it does not reuse the authors' code. The PDF consulted in the
-research project is available locally at
-`/home/leo/tcc_sopmv/docs/referencias/lin_guo_wu_2024.pdf`.
+implementation; it does not reuse the authors' code.
 
 > Lin, S.-W.; Guo, S.; Wu, W.-J. *Applying the Simulated Annealing Algorithm
 > to the Set Orienteering Problem with Mandatory Visits*. **Mathematics**,
