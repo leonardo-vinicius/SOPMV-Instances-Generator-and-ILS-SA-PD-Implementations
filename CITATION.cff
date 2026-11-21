@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or these instances, please cite this repository."
+title: "SOPMV Instance and Algorithm Repository"
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+authors:
+  - family-names: "Jatobá da Silva"
+    given-names: "Leonardo Vinicius Wanderley"
+    affiliation: "Universidade Federal de Alagoas"
